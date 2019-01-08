@@ -6,5 +6,6 @@ class framework
 	{
 		int x;
 		int y;
+		// comment
 	}
 }
